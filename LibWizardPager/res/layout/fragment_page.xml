@@ -1,0 +1,26 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/WizardPageContainer"
+    android:background="@drawable/bg"
+     android:textColor="#FF0000"  >
+
+    <TextView
+        style="@style/WizardPageTitle"
+        android:textColor="#FF0000" />
+
+    <ListView
+        android:id="@android:id/list"
+        style="@style/WizardFormList"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:cacheColorHint="@color/choice_selected"
+        android:divider="#CD8500"
+        android:dividerHeight="1dp"
+        android:listSelector="@color/choice_selected"
+        android:saveEnabled="false"
+        android:fadeScrollbars="false"
+        android:scrollbarStyle="outsideInset"
+       />
+
+</LinearLayout>

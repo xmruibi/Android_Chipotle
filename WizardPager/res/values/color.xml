@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="button_select">#FFA07A</color>
+     <color name="choice_select">#FFA07A</color>
+    <color name="button_text_select">#FFA07A</color>
+</resources>

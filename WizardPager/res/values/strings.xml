@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CHIPOLTE</string>
+    <string name="textCalories">Calories:</string>
+	<string name="totalCalories">0=0</string>
+    <string name="next">Next</string>
+    <string name="prev">Previous</string>
+    <string name="finish">Submit order</string>
+
+    <string name="submit_confirm_message">Place the order? </string>
+    <string name="submit_confirm_button">Place order</string>
+</resources>
